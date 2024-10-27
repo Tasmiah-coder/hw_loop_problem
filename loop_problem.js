@@ -59,7 +59,7 @@ let sumSquare =0;
 
 for(i=1; i<=10; i++){
     multiplication_table=7*i;
-    console.log('7'+'*'+i+'='+multiplication_table);
+    console.log('7'+'X'+i+'='+multiplication_table);
 }
 
 
